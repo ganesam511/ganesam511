@@ -1,4 +1,4 @@
-👋 Hi, I’m @Ganesa Moorthy S
+👋 Hi, I’m Ganesa Moorthy S
 
 👀 I’m interested in problem solving and Machine Learning
 
